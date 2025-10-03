@@ -125,17 +125,20 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // Apply the theme based on saved preference
-  switch (localStorage.getItem('attila_theme')) {
-    case 'dark':
-      dark();
-      break;
-    case 'light':
-      light();
-      break;
-    default:
-      system();
-      break;
-  }
+  //switch (localStorage.getItem('attila_theme')) {
+  //  case 'dark':
+  //    dark();
+  //    break;
+  //  case 'light':
+  //    light();
+  //    break;
+  //  default:
+  //    system();
+  //    break;
+  // }
+
+  //Force dark theme
+  dark();
 
   // Add event listener for toggle click
   if (toggle) {

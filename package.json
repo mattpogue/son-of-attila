@@ -1,8 +1,8 @@
 {
-  "name": "attila",
+  "name": "son-of-attila",
   "description": "Ghost Theme",
-  "demo": "https://attila.peteramende.de",
-  "version": "3.9.0",
+  "demo": "https://github.com/mattpogue/son-of-attila",
+  "version": "1.1.0",
   "engines": {
     "ghost": ">=5.0.0"
   },
@@ -12,9 +12,9 @@
     "mobile": "src/screenshot-mobile.jpg"
   },
   "author": {
-    "name": "Peter Amende",
-    "email": "hey@peteramende.de",
-    "url": "https://peteramende.de"
+    "name": "Matt Pogue",
+    "email": "mattp@kyloson.com",
+    "url": "https://kyloson.com"
   },
   "gpm": {
     "type": "theme",
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zutrinken/attila.git"
+    "url": "https://github.com/mattpogue/son-of-attila.git"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
