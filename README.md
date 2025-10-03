@@ -1,4 +1,14 @@
-# Attila
+# Son of Attila
+The Son of Attila is my own fork of the wonderfully awesome Attila theme (details below). I've modified a few things to make the theme less newsletter and more like a plain ol' corporate website, as I use it for my company's site, Kyloson LLC (<https://kyloson.com>). Changes include:
+
+* Removing the Subscribe/Sign In links at the top of `default.hbs`.
+* Defaulting to dark mode and removing the mode selector link in the page footer.
+* Adding dropdown menus for non-mobile (992px+ width).
+* More to come...
+
+---- Below here are details and build instructions from the original repository. ----
+
+## Attila
 
 Attila is a clean, content-focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). You can see it live [here](https://attila.peteramende.de/). If you find it useful and want to support its development, feel free to [tip](https://paypal.me/zutrinken) or contribute. Thank you for your support!
 
